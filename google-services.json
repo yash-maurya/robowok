@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781764177489",
+    "project_id": "robochef-5db5b",
+    "storage_bucket": "robochef-5db5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781764177489:android:2c24a290644c21b2ea9270",
+        "android_client_info": {
+          "package_name": "com.userapps.robochef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781764177489-vmke7l7la4omciuq91sj5cb0j5hr6pr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr-CQmHGWsQ3V46TscDc0lin5zR7S2ywk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781764177489-vmke7l7la4omciuq91sj5cb0j5hr6pr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
